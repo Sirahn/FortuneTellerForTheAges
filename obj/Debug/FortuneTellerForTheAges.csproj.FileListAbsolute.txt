@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\FortuneTellerForTheAges\bin\Debug\FortuneTellerForTheAges.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\FortuneTellerForTheAges\bin\Debug\FortuneTellerForTheAges.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\FortuneTellerForTheAges\bin\Debug\FortuneTellerForTheAges.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\FortuneTellerForTheAges\obj\Debug\FortuneTellerForTheAges.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\FortuneTellerForTheAges\obj\Debug\FortuneTellerForTheAges.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\FortuneTellerForTheAges\obj\Debug\FortuneTellerForTheAges.pdb
